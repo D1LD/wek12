@@ -1,4 +1,4 @@
-### Week12
+Week12
 
 # # # Loan VS Credit Risk Machine Leanring 
 
@@ -8,4 +8,4 @@
 # # I try to minimus the variance and predict more accurate answer for any future event 
 # Inside Test Matrix we can see KPI for each section (True positive""TP", True negative"TN", False Negtive"FN", and False Positive"FP")
 # According to Metrics result we can see accuracy 99%, for "0" precision and recall both 100% and for "1" recall is 90%, after we resample them ,accuracy still 99% but "1" recall increased form 90% to 99% 
-## In conclusion resampled model brings better result with 99% accuracy ,whihc is better.
+# In conclusion resampled model brings better result with 99% accuracy ,whihc is better.
